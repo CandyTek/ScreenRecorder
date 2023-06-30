@@ -1,5 +1,5 @@
 # ScreenRecorder
----
+
 从 Android 4.4 开始支持手机端本地录屏，但首先需要获取 root 权限才行，Android 5.0 引入 MediaProject，
 可以不用 root 就可以录屏，但需要弹权限获取窗口，需要用户允许才行，这里主要介绍 Android 5.0+ 利用
 MediaProject 在非 root 情况下实现屏幕录制。
@@ -7,7 +7,7 @@ MediaProject 在非 root 情况下实现屏幕录制。
 <br>
 
 ## Android 5.0+ 屏幕录制
-## Fork 自ScreenRecorder
+## Fork 自[glt/ScreenRecorder](https://github.com/glt/ScreenRecorder)
 ## 更新gradle 8.0
 ## 更新使用AndroidX
 ## 修复权限重复申请，onActivityResult finish 闪退问题

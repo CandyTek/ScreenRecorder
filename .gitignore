@@ -15,3 +15,4 @@ local.properties
 packages/phoenix/*lint*.xml
 .directory
 gradle/
+recorder/release
